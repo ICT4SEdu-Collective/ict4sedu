@@ -1,6 +1,10 @@
 # ict4sedu
 ICT4S Edu
 
+On our community blog, we have a longer list of resources: https://ict4sedu.wordpress.com
+Here, for the time being, we have a short list of our favorite essentials to get started with sustainability education if coming from IT.
+
+
 1. Hilty, Lorenz M., and Bernard Aebischer. "ICT for sustainability: An emerging research field." ICT innovations for Sustainability (2015): 3-36. https://link.springer.com/chapter/10.1007/978-3-319-09228-7_1
    
 2. Hawken, Paul, ed. Drawdown: The most comprehensive plan ever proposed to reverse global warming. Penguin, 2017. 
