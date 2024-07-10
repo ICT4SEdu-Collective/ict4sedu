@@ -2,6 +2,7 @@
 ICT4S Edu
 
 On our community blog, we have a longer list of resources: https://ict4sedu.wordpress.com
+
 Here, for the time being, we have a short list of our favorite essentials to get started with sustainability education if coming from IT.
 
 
