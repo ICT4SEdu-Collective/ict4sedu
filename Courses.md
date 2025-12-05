@@ -10,6 +10,9 @@ Sustainable SE course by Luis Cruz: https://luiscruz.github.io/course_sustainabl
 
 Technology to Serve Humanity course: https://www.humanetech.com/course
 
+**Toolkits**
+
+The SuSo Academy https://www.suso.academy 
 
 **Serious games**
 
