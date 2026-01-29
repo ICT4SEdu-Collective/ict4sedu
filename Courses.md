@@ -22,3 +22,9 @@ Smart Decisions Architecture Game: https://smartdecisionsgame.com
 
 Tarot cards of tech: https://tarotcardsoftech.artefactgroup.com
 
+
+**Curriculum Revision**
+
+Sustainify your syllabi description of how to integrate sustainability into a course https://zenodo.org/records/15349807
+
+Irish course on integrating sustainability into the curriculum https://opencourses.ie/opencourse/education-for-sustainability/
