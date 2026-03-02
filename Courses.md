@@ -10,6 +10,8 @@ Sustainable SE course by Luis Cruz: https://luiscruz.github.io/course_sustainabl
 
 Technology to Serve Humanity course: https://www.humanetech.com/course
 
+Requirements Engineering course: https://teachingopensource.org/Requirements_Engineering,_CSU_Long_Beach,_Penzenstadler
+
 **Toolkits**
 
 The SuSo Academy https://www.suso.academy 
