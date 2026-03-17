@@ -1,0 +1,17 @@
+Digitalisation in a changing world - DIT 004
+https://www.gu.se/en/study-in-gothenburg/exchange-student/summer-school-for-sustainability-on-campus-2022
+
+The purpose of this course is to prepare students as self-aware, responsible agents of change in the world, such that you are able to apply critical thinking and a long-term systemic perspective to the plethora of development opportunities provided by digitization. The course supports SDGs 3 (health & wellbeing), 9 (innovation) and 11 (sustainable communities).
+
+We discuss sustainability and sustainable development concepts in class and relate them to climate change, world economics, systems thinking, and technological development. This builds the foundation for critically assessing the potential and risks of digitization in a changing world - i.e. when new ideas come around, you will be able to judge them well. To make this very applicable in your future, we give you the option to conceptualize and develop prototypical IT systems that support sustainable development. Note after feedback from 2022: Please be aware that the emphasis is more on personal wellbeing and how that ties in with sustainability and current societal lifestyle than on the design and implementation of IT services.
+
+The course is carried out via: 
+- Development of and reflection on a personal sustainability practice and what it means to live in a sustainable community. That means we try practices like yoga, meditation, walks in nature and reflect on the effects - yup, we have a well-qualified professor for that in IT, see below; 
+- Flipped classroom for introducing concepts. You will be watching a short documentary or reading a research article as preparation and then we discuss them in class and reflect on how to use these concepts in our work. 
+- A team project will be carried out in small teams over the extent of the course to apply all the new concepts (so you are comfortable at integrating your new sustainability knowledge into technology development), including requirements engineering and design. You can optionally work on prototyping an IT service or product to explore sustainable development.
+
+The course responsible and main teacher is Associate Professor Birgit Penzenstadler, who has been researching the connection between technology and sustainability for a decade, and for the last three years integrated her yoga teacher practice into research to increase the wellbeing and resilience of developers and engineers. 
+There may be further guest teachers.
+
+
+6-8 hr facetime per week.
