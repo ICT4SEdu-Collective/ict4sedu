@@ -1,6 +1,7 @@
+# Courses and Teaching Materials
 We are collecting a number of courses and open access materials.
 
-**Courses**
+## Courses
 
 ICT4S course on YouTube by Birgit Penzenstadler (slides to be shared): https://www.youtube.com/watch?v=XgUzSK3gYJQ&list=PLUgFMzuE8lQD5dWY0DKOLUIxS0v65TASt 
 
@@ -12,11 +13,13 @@ Technology to Serve Humanity course: https://www.humanetech.com/course
 
 Requirements Engineering course: https://teachingopensource.org/Requirements_Engineering,_CSU_Long_Beach,_Penzenstadler
 
-**Toolkits**
+Courses [in this repository](Courses).
+
+## Toolkits
 
 The SuSo Academy https://www.suso.academy 
 
-**Serious games**
+## Serious games
 
 Rebound cards game: https://wp.lancs.ac.uk/paris-de/rebound-archetype-cards/ (download) and https://enac.hal.science/hal-04757991v1 (paper)
 
@@ -25,7 +28,7 @@ Smart Decisions Architecture Game: https://smartdecisionsgame.com
 Tarot cards of tech: https://tarotcardsoftech.artefactgroup.com
 
 
-**Curriculum Revision**
+## Curriculum Revision
 
 Sustainify your syllabi description of how to integrate sustainability into a course https://zenodo.org/records/15349807
 

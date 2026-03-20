@@ -1,10 +1,12 @@
-# 📜 Why is licensing important?
+# Licensing Your Documentation and Courses: A Guide for Open Source Creators
+
+## 📜 Why is licensing important?
 
 When sharing documents, courses, or educational materials, standard software licenses (like MIT or Apache) are often less effective than licenses designed for creative content. The industry standard for these "cultural works" is the **Creative Commons (CC)** suite.
 
 ---
 
-# 💡 Quick Tips for Choosing
+## 💡 Quick Tips for Choosing
 
 * **If you want the most people to see it:** Use **CC BY**.
 * **If you want to ensure it stays free:** Use **CC BY-SA**.
@@ -14,7 +16,7 @@ Below is a summary of the most common licenses used for documentation and course
 
 ---
 
-# 📚 Common Open Source Licenses for Content
+## 📚 Common Open Source Licenses for Content
 
 | License | Commercial Use? | Can Modify? | ShareAlike? | Notes |
 | --- | --- | --- | --- | --- |
@@ -28,27 +30,27 @@ Below is a summary of the most common licenses used for documentation and course
 
 ---
 
-# 🔍 License Breakdown
+## 🔍 License Breakdown
 
-## 1. Creative Commons Attribution (CC BY)
+### 1. Creative Commons Attribution (CC BY)
 
 The "gold standard" for open education. It allows others to distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation.
 
 * **Best for:** Maximum reach and impact of your course or guide.
 
-## 2. Creative Commons Attribution-ShareAlike (CC BY-SA)
+### 2. Creative Commons Attribution-ShareAlike (CC BY-SA)
 
 This is a **copyleft** license for content. If someone remixes your material, they must license their new creation under the same terms. This ensures the "descendants" of your work remain free forever.
 
 * **Best for:** Building a community-driven project (like a wiki).
 
-## 3. Creative Commons Non-Commercial (CC BY-NC)
+### 3. Creative Commons Non-Commercial (CC BY-NC)
 
 This allows others to use and adapt your work but strictly for non-commercial purposes. If a company wants to put your course in a paid training package, they must ask for your explicit permission (and likely pay a fee).
 
 * **Best for:** Independent creators who want to keep their work free but prevent others from profiting off it.
 
-## 4. GNU Free Documentation License (GFDL)
+### 4. GNU Free Documentation License (GFDL)
 
 Originally created by the Free Software Foundation for software manuals. While still in use, it is increasingly being replaced by CC licenses because the GFDL has "Invariant Sections" (parts of the text that cannot be changed) which can make remixing difficult.
 
