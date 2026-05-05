@@ -1,6 +1,8 @@
 # Courses and Teaching Materials
 We are collecting a number of courses and open access materials.
 
+---
+
 ## Courses
 
 ICT4S course on YouTube by Birgit Penzenstadler (slides to be shared): https://www.youtube.com/watch?v=XgUzSK3gYJQ&list=PLUgFMzuE8lQD5dWY0DKOLUIxS0v65TASt 
@@ -15,6 +17,17 @@ Requirements Engineering course: https://teachingopensource.org/Requirements_Eng
 
 Courses [in this repository](Courses).
 
+---
+
+## Online Learning Paths & MOOCs
+
+- **[Green Software Practitioner](https://learn.greensoftware.foundation/)** – Provider: Green Software Foundation. Topics: Foundations & practice of green software.
+- **[Digital4Sustainability Learning Path](https://www.unssc.org/courses/digital4sustainability-learning-path)** – Provider: UNSSC / CODES. Topics: Digital climate action.
+- **[Sustainable Software Engineering](https://open.hpi.de/courses/sustainablesoftware2022)** – Provider: HPI (Hasso Plattner Institute). Topics: Architecture, efficiency, practice.
+- **[Clean IT](https://open.hpi.de/courses/cleanIT-x862022)** – Provider: HPI. Topics: Resource-efficient programming.
+- **[Green Digital Skills](https://www.greenskills.inco-group.co/)** – Provider: INCO Group. Topics: Entry-level green IT skills.
+
+---
 ## Toolkits
 
 The SuSo Academy https://www.suso.academy 
