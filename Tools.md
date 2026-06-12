@@ -10,6 +10,7 @@ A collection of tools, frameworks, and guidelines for integrating sustainability
 - **[Green Web Foundation](https://www.thegreenwebfoundation.org/)** – Check whether websites run on green hosting; includes a JavaScript library for emissions measurement in web apps.
 - **[Cleaner Web](https://cleaner-web.com/)** – Quick emissions analysis for web pages.
 - **[Globalance World](https://fe.globalanceworld.com)** – Visualization of climate and financial data.
+- **[Digital Footprint Explorer](https://play.google.com/store/apps/details?id=ch.zhaw.digitalfootprintexplorer)** - Estimates CO₂ emissions of mobile applications including the network and backend and visualizes them through a virtual garden (Android only at the moment).
 
 ---
 
@@ -48,6 +49,12 @@ A collection of tools, frameworks, and guidelines for integrating sustainability
 - **[SonarQube Cloud](https://www.sonarsource.com/products/sonarqube/cloud/)** - a cloud-based static analysis tool designed for continuous integration and continuous delivery (CI/CD) workflows, helping developers identify and fix bugs, vulnerabilities, and code quality issues in real time.
 - **[TeamScale](https://teamscale.com/)** - a software quality platform that helps developers improve code quality, manage technical debt.
 - **[Understand](https://scitools.com/)** - a customizable integrated development environment (IDE) designed for static code analysis.
+
+---
+
+## 🧰 Software Tools for Measuring Social/Individual Sustainability 👬
+
+- **[RootSource](https://rootsource.cloudlab.zhaw.ch/)** - a repository mining tool with a focus on team culture and developer well-being.
 
 ---
 
